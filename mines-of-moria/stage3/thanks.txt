@@ -1,0 +1,3 @@
+Thanks to Enrique Soriano for the great writeup on creating a ELF/Tar polyglot at https://sysfatal.github.io/polyglottar-en.html
+Thanks to Vi Gray for creating https://github.com/ViGrey/3F.py/blob/master/3f.py
+Thanks to J. R. R. Tolkien for creating Middle Earth.
