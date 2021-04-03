@@ -28,4 +28,4 @@ file.tar: hint.txt
 .PHONY: clean
 clean:
 	bash -c "rm -rf $$'\x7fELF'"
-	rm -f *.o file.tar fixup_tar hello hello_enc moria.tar
+	rm -f *.o file.tar fixup_tar hello hello_enc moria.tar decode-png_enc
